@@ -1,1 +1,2 @@
-# ML_Project1
+# Time Series Stock Price Forecasting with RNN/LSTM 
+Designed and deployed an LSTM-based deep learning model to predict stock prices from historical time series data. Performed data preprocessing, feature engineering, and sequence generation. Built and trained a multi-layer LSTM model to capture temporal dependencies in stock trends. Achieved strong predictive accuracy and visualized performance using real vs. predicted comparisons.
